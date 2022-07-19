@@ -1,7 +1,7 @@
 {
   "name": "tutorial-package",
   "main": "./lib/tutorial-package",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
